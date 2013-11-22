@@ -1,0 +1,31 @@
+Differences Between Mobile and cloud computing:
+
+Cloud computing, allows you to store your files and folders in a ‚Äúcloud‚Äù area on the Internet, allowing you access to all of your files and folders wherever you are in the world ‚Äì but you do need a physical device with Internet access to access it.
+
+Mobile computing is taking a physical device with you. This could be a laptop or a mobile phone or some device which enables you to telework ‚Äì working wherever you go because of the small size of the device you‚Äôre using
+
+
+Cloud Computing:
+
+a)Cloud computing is an expression used to describe a variety of computing concepts that involve a large number of
+  computers connected through a real-time communication network such as the Internet.
+b)Cloud services are used today to store, manage, and process a wide variety of data applications.
+  Cloud computing has taken the industry by storm because it enables greater accessibility, mobility, subscription
+  based pricing, and real-time access to informationóall without requiring investment in infrastructure.
+c)Allows you to store your files and folders in a ìcloudî area on the Internet,
+  allowing you access to all of your files and folders wherever you are in the world.
+  But you do need a physical device with Internet access to access it.
+d)High processing power,large tranmission power,high bandwidth and  battery power.
+e)clients for cloud computing are computers.
+
+
+
+Mobile Computing:
+
+a)Mobile computing is the ability to use computing capability without a pre-defined location and/or connection to 
+  a network to publish and/or subscribe to information.
+b)Is taking a physical device with you.This could be a laptop or a mobile phone or some device which enables you 
+  to telework-working wherever you go because of the small size of the device youíre using.
+c)clients for mobile cloud computing are cell phones.
+d)The mobile cloud focuses on services available through mobile network operators.
+e)Limited processing power, limited transmission power, low bandwidth, and limited battery power.

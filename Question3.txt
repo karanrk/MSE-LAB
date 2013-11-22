@@ -1,0 +1,22 @@
+﻿Example: Context
+The word context is derived from the Latin “contextus”, which means “connection of words, coherence,” and from contexere “to weave together.”
+No clear boundary divides what is and is not context.
+Most interesting kinds of context are those that humans do not explicitly provide.
+With advances in sensing and automated means of perceiving the physical environment, we can automatically collect much more implicit context.
+Context helps us to do things better.
+Context influences how we perceive information. Context enables us to manage the vast amount of information that surrounds us.
+Context guides us through the information surrounding us. Context allows to discriminate “what is important” and“what is not”. Context helps us to adapt to our surroundings.
+
+Example:
+
+Few months ago google search for "who is Anna?" would yield information about Anna Kornikova, famous Tennis player. But now Anna Hazare is shown. Ip based location, current activity on internet searches, page ranking, etc influence the search.
+
+An example of a mobile app:
+
+Friday is an app for Android phone that showcases context aware programming.
+The idea being to provide a history of your communications, like calls, text messages, emails, etc, and combine those with other events your phone is able to record, like photos and battery drops, then mush it all together with data from third-party services, like Facebook. This is going to provide a personalised search engine for the user. Some contexts are explained this way, to justify it's context awareness:
+a) This is an app that notifies user when the phone is running low on battery and there is a charger nearby.
+b) Provides an alternate dialer app, which, rather than showing the recent calls log, shows the list of users you are most probably going to call based on your context
+c)This is an app that shows you a daily travelogue, and activity graph.
+
+	

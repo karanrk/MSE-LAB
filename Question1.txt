@@ -1,0 +1,35 @@
+DVM INSTRUCTIONS
+
+1) move
+	Syntax- move VX,VY
+	Example- move v0, v1
+		Moves v1 into v0.
+
+2)const
+	Syntax- const/4 vA, #+B
+	Example-  const/4 v1, #int2
+		Moves literal 2 into v1. The destination register is in the lower 4 bit in the second byte,
+ 		the literal 2 is in the higher 4 bit.
+
+3)monitor-enter
+	Syntax- monitor-enter vx
+	Example-   monitor-enter v3
+		Obtains the monitor of the object referenced by v3.
+
+4)new-instance
+	Syntax- new-instance vx,type
+	Example-  new-instance v0, java.io.FileInputStream // type@0015
+		Instantiates type@0015 (entry #15H in the type table) and puts its reference into v0.
+
+5)goto
+	Syntax- goto target
+	Example- goto 0005 // -0010
+		Jumps to current position-16 words (hex 10). 0005 is the label of the target instruction.
+6)new-array
+	Syntax:
+	new-array vx,vy,type_id	
+	Explanation:
+	Generates a new array of type_id type and vy element size and puts the reference to the array into vx.	
+	Example:
+	2312 2500- new-array v2, v1, char[] // type@0025
+	Generates a new array of type@0025 type and v1 size and puts the reference to the new array into v2.
